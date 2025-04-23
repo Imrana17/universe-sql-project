@@ -1,1 +1,1 @@
-# universe-sql-project
+Add universe.sql for FreeCodeCamp project
